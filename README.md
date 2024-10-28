@@ -20,17 +20,25 @@ This Interactive Quiz Application project is a browser-based quiz built with HTM
 
 Here’s an overview of the key elements and functionality:
 
+
+
 1. Project Structure                                                                                                                                                          
 *HTML (quiz.html): Provides the structure and layout for the quiz interface.                                                                                                  
 *JavaScript (script.js): Handles the quiz logic, including question loading, answer validation, scoring, and result display.                                                  
-*CSS (styles.css): Styles the quiz layout, creating an interactive and user-friendly experience.                                                                                                                                                                                                                                                              
-2. Functionality Overview
+*CSS (styles.css): Styles the quiz layout, creating an interactive and user-friendly experience.
+
+                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                             
+3. Functionality Overview                                                                                                                                                     
 *Question Display: Displays one question at a time with multiple-choice options.                                                                                               
 *Answer Validation: Checks if the selected answer is correct, provides immediate feedback (e.g., "Correct!" or "Wrong! The correct answer was..."), and adjusts the score accordingly.                                                                                                                                                                  
 *Navigation: Includes a "Next Question" button to move through the quiz.                                                                                                    
 *Result Calculation: After all questions are answered, the final score is displayed along with an option to restart the quiz.
-*Restart Feature: Resets the quiz and allows users to retake it.                                                                                                                                                                                                                                                                                                                                                                                                                 
-3. File Breakdown
+*Restart Feature: Resets the quiz and allows users to retake it.
+
+                                                                                                                                                                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                                 
+4. File Breakdown                                                                                                                                                             
 #quiz.html:                                                                                                                                                                                                      
 *Sets up containers for questions, choices, feedback, and the result display.                                                                                                  
 *Includes the JavaScript and CSS files for functionality and styling.                                                                                                          
@@ -39,11 +47,19 @@ Here’s an overview of the key elements and functionality:
 *Initializes the quiz on page load and provides functions for navigating and restarting the quiz.                                                                              
 #styles.css:                                                                                                                                                                   
 *Centers the quiz on the page and styles it with visually appealing colors, fonts, and button effects.                                                                         
-*Provides interactive button styles for choice selection and navigation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-4. User Flow                                                                                                                                                                  
+*Provides interactive button styles for choice selection and navigation.
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+5. User Flow                                                                                                                                                                                                                                                                                                                                    
 *Users start by viewing the first question and selecting an answer.                                                                                                            
 *Immediate feedback is given, and users can proceed to the next question.                                                                                                      
-*Once all questions are answered, a results screen shows the user’s score, with an option to restart the quiz.                                                                 
+*Once all questions are answered, a results screen shows the user’s score, with an option to restart the quiz.
+
+
+
+
+                                                                
 
 
 

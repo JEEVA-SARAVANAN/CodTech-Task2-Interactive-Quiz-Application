@@ -12,6 +12,9 @@ Duration: September 30th,2024 to October 30th,2024
 OVERVIEW OF THE PROJECT
 
 
+![Screenshot (287)](https://github.com/user-attachments/assets/22d45297-49f2-4d03-aaaa-f49fb91fb32b)
+
+
 PROJECT: INTERACTIVE QUIZ APPLICATION
 
 
